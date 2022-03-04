@@ -1,0 +1,3 @@
+G:/project/C/Installments and car purchase fees/cmake-build-debug/CMakeFiles/Installments_and_car_purchase_fees.dir
+G:/project/C/Installments and car purchase fees/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Installments and car purchase fees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
